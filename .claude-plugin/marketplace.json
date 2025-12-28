@@ -1,0 +1,45 @@
+{
+  "name": "resonance-tools",
+  "version": "1.0.0",
+  "description": "Free tools for developers by The Resonance Labs",
+  "owner": {
+    "name": "Pete Sena",
+    "email": "pete@theresonance.studio",
+    "url": "https://linkedin.com/in/petersena"
+  },
+  "metadata": {
+    "description": "Open-source developer tools from The Resonance Labs. Building useful software to help developers ship faster.",
+    "homepage": "https://labs.theresonance.studio"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-hetzner-vps",
+      "description": "Provision secure, Claude Code-ready Hetzner VPS instances with auto-firewall, fail2ban, and SSH hardening. See costs before you spend. A free tool by The Resonance.",
+      "version": "1.0.0",
+      "source": ".",
+      "author": {
+        "name": "Pete Sena",
+        "email": "pete@theresonance.studio",
+        "url": "https://linkedin.com/in/petersena"
+      },
+      "homepage": "https://labs.theresonance.studio",
+      "repository": "https://github.com/The-Resonance/claude-code-hetzner-vps",
+      "license": "MIT",
+      "category": "devops",
+      "keywords": [
+        "hetzner",
+        "vps",
+        "provisioning",
+        "security",
+        "hardening",
+        "ufw",
+        "fail2ban",
+        "ssh",
+        "claude-code",
+        "cloud",
+        "devops",
+        "infrastructure"
+      ]
+    }
+  ]
+}

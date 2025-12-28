@@ -1,0 +1,28 @@
+{
+  "name": "claude-code-hetzner-vps",
+  "version": "1.0.0",
+  "description": "Provision secure, Claude Code-ready Hetzner VPS instances with auto-firewall, fail2ban, and SSH hardening. A free tool by The Resonance.",
+  "author": {
+    "name": "Pete Sena",
+    "email": "pete@theresonance.studio",
+    "url": "https://linkedin.com/in/petersena"
+  },
+  "homepage": "https://labs.theresonance.studio",
+  "repository": "https://github.com/The-Resonance/claude-code-hetzner-vps",
+  "license": "MIT",
+  "keywords": [
+    "hetzner",
+    "vps",
+    "provisioning",
+    "cloud",
+    "security",
+    "hardening",
+    "ufw",
+    "fail2ban",
+    "ssh",
+    "claude-code",
+    "devops",
+    "infrastructure",
+    "automation"
+  ]
+}
