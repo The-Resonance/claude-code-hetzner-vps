@@ -16,7 +16,7 @@
       "name": "claude-code-hetzner-vps",
       "description": "Provision secure, Claude Code-ready Hetzner VPS instances with auto-firewall, fail2ban, and SSH hardening. See costs before you spend. A free tool by The Resonance.",
       "version": "1.0.0",
-      "source": ".",
+      "source": "./",
       "author": {
         "name": "Pete Sena",
         "email": "pete@theresonance.studio",
