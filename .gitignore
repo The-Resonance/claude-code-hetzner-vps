@@ -22,3 +22,6 @@ tmp/
 
 # Cloud-init generated files
 user-data-*.yaml
+
+# Local Claude instructions (not for repo)
+CLAUDE.md
